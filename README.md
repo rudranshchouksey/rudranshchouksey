@@ -69,13 +69,6 @@ Published in **International Journal of Technology Research and Management (IJTR
 
 ---
 
-## 📊 GitHub Stats  
-![Rudransh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
 ## 📫 Get in Touch  
 📧 **rudranshchouksey@gmail.com**  
 📍 **Indore, Madhya Pradesh, India**  
