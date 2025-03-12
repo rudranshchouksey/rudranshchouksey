@@ -69,12 +69,23 @@ Published in **International Journal of Technology Research and Management (IJTR
 
 ---
 
+Good question! Here's an expanded **"Get in Touch"** section with **popular platforms** you might want to include. I’ve added placeholders, but you can provide me with your actual links if you want me to fill them in.
+
+---
+
 ## 📫 Get in Touch  
 📧 **rudranshchouksey@gmail.com**  
 📍 **Indore, Madhya Pradesh, India**  
-📞 **+91 7999189654**  
+📞 **+91 7999189654**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-RudranshChouksey-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+### 🌐 Links  
+[![Portfolio](https://img.shields.io/badge/Portfolio-RudranshChouksey-111?style=for-the-badge&logo=vercel)](https://rudranshchoukseyportfolio.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-RudranshChouksey-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![Twitter (X)](https://img.shields.io/badge/Twitter-@RudraChouksey-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/RudraChouksey)  
+[![Instagram](https://img.shields.io/badge/Instagram-@rudranshchouksey-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rudranshchouksey/)  
+[![GitHub](https://img.shields.io/badge/GitHub-RudranshChouksey-181717?style=for-the-badge&logo=github)](https://github.com/your-github)  
+[![Behance](https://img.shields.io/badge/Behance-RudranshChouksey-1769FF?style=for-the-badge&logo=behance)](https://behance.net/your-profile) 
+
+---
 
 Feel free to **reach out** if you want to collaborate or just say hi! 😊
