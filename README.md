@@ -88,4 +88,4 @@ Good question! Here's an expanded **"Get in Touch"** section with **popular plat
 
 ---
 
-Feel free to **reach out** if you want to collaborate or just say hi! 😊
+Feel free to **reach out** if you want to collaborate or say hi! 😊
