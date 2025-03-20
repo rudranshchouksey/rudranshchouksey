@@ -84,7 +84,6 @@ Good question! Here's an expanded **"Get in Touch"** section with **popular plat
 [![Twitter (X)](https://img.shields.io/badge/Twitter-@RudraChouksey-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/RudraChouksey)  
 [![Instagram](https://img.shields.io/badge/Instagram-@rudranshchouksey-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/rudranshchouksey/)  
 [![GitHub](https://img.shields.io/badge/GitHub-RudranshChouksey-181717?style=for-the-badge&logo=github)](https://github.com/your-github)  
-[![Behance](https://img.shields.io/badge/Behance-RudranshChouksey-1769FF?style=for-the-badge&logo=behance)](https://behance.net/your-profile) 
 
 ---
 
