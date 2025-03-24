@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Rudransh Chouksey
 
 🚀 **Software Analyst at Accenture** | **Full-Stack Developer** | **AI/ML Enthusiast**
-📍 Indore, India
+📍 India
 
 ---
 
