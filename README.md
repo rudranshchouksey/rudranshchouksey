@@ -1,133 +1,120 @@
-# Hi, I'm Rudransh Chouksey 👋
+<h1 align="center">Hi 👋, I'm Rudransh Chouksey</h1>
+<h3 align="center">Lead Full Stack Developer | Senior Backend / Frontend Engineer</h3>
 
-🚀 Lead Full Stack Developer | Senior Backend / Frontend Engineer  
-🏢 Accenture | The Serif’s (Contract)  
-📍 Indore, India  
-
----
-
-## 👨‍💻 Professional Summary
-
-Full-Stack Engineer with **4+ years of experience** architecting and delivering **high-performance, scalable web applications** using **MERN, Next.js, and TypeScript**. Proven track record of modernizing legacy systems for **Fortune 500 clients** in compliance-driven environments.
-
-Specialized in **microservices, real-time systems, CI/CD automation, and cloud-native architectures**, with hands-on ownership across frontend, backend, and DevOps layers.
-
-**Key Highlights**
-- ⚡ Improved system performance by **30–35%** across multiple enterprise platforms  
-- 🚀 Achieved **99.8–99.9% system uptime** through automated CI/CD pipelines  
-- 🧪 Reduced production defects by **35–45%** using structured testing & code reviews  
-- 👥 Mentored junior engineers and standardized engineering best practices  
+<p align="center">
+  <a href="https://linkedin.com/in/rudransh-chouksey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rudranshchouksey"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://rudranshchoukseyportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-**Frontend**
-- React.js, Next.js (SSR / ISR), TypeScript, JavaScript
-- TailwindCSS, Shadcn UI, Framer Motion
-- Zustand, Redux, Atomic Design Systems
+I’m a **Full-Stack Engineer with 4+ years of experience** delivering **high-performance, scalable systems** for **Fortune 500 and global enterprise clients**.
 
-**Backend**
-- Node.js, Express.js
-- REST APIs, WebSockets, Event-driven systems
-- Prisma ORM
+I specialize in **React, Next.js, Node.js, TypeScript**, and **cloud-native architectures**, with deep ownership across **frontend, backend, DevOps, and real-time systems**.
 
-**Databases**
-- PostgreSQL, MongoDB
-
-**Cloud & DevOps**
-- AWS (EC2, S3), GCP
-- Docker, Kubernetes
-- GitHub Actions, CI/CD pipelines
-- Turborepo (Monorepo Architecture)
-
-**Security & APIs**
-- Postman API Validation
-- OAuth 2.0, JWT, RBAC
-- API contract & regression testing
+**Impact Highlights**
+- ⚡ Improved application performance by **30–35%**
+- 🚀 Achieved **99.8–99.9% system uptime**
+- 🧪 Reduced production defects by **35–45%**
+- 👥 Supported **50+ stakeholder applications**
+- 🧠 Mentored engineers & standardized engineering workflows
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Activity & Performance
 
-### **Senior Full Stack Developer (Contract)** — The Serif’s  
-**May 2025 – Dec 2025 | Indore, India**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rudranshchouksey&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshchouksey&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-- Accelerated backend data retrieval by **35%** through full-stack optimization across **international client projects** (Dr. Reddy’s, LMS Portal, TeamSync AI)  
-- Built a **centralized UI library** using Shadcn UI & TailwindCSS with **50+ reusable components**, increasing team velocity by **30%**  
-- Automated Docker-based **CI/CD pipelines** using GitHub Actions on AWS EC2, reducing release time from **2.25 hours to 15 minutes**  
-- Ensured **100% API integration accuracy** between Next.js frontends and Node.js microservices via Postman contract testing  
-- Mentored **3 junior developers**, enforcing Git workflows and code reviews, resulting in a **45% reduction in production defects**
-
----
-
-### **Full Stack / Backend / Frontend Engineer** — Accenture  
-**Sep 2021 – May 2025 | Indore, India**
-
-- Modernized legacy monolithic systems into **React & Next.js architectures**, delivering a **30% performance boost**  
-- Supported **50+ enterprise applications** for global clients (Pfizer, EirGrid), reducing ticket turnaround time by **40%**  
-- Designed and deployed **Docker-based microservices**, accelerating release cycles by **35%**  
-- Conducted end-to-end **API security testing**, auditing JWT & RBAC permissions across compliance-heavy systems  
-- Created **150+ Postman test collections**, reducing regression and production issues by **35%**  
-- Resolved high-severity production issues within **100% SLA compliance** through cross-functional collaboration
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudranshchouksey&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## 🚀 Key Projects
+## 🧠 Tech Stack (Visual)
 
-### **Dr. Reddy’s Healthcare Portal**
-**Next.js, AWS (EC2, S3), Docker, Shadcn UI**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-- Built an SSR dashboard integrated with a headless CMS across **10+ microsites**
-- Improved render speed by **25%** and ensured **99.9% uptime** for global research teams
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
+![WebSockets](https://img.shields.io/badge/WebSockets-000?style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
 
----
-
-### **EirGrid Real-Time Operations Dashboard**
-**Node.js, WebSockets, PostgreSQL**
-
-- Engineered WebSocket-based telemetry with **sub-second visibility** into national grid infrastructure  
-- Reduced **MTTR by 40%** through real-time alert synchronization
-
----
-
-### **TeamSync AI (B2B SaaS Platform)**
-**Next.js, Node.js, TypeScript, WebSockets, Prisma**
-
-- Developed real-time communication features with **sub-100ms latency**
-- Scaled backend to support **300% growth** in concurrent users
-- Implemented JWT-based RBAC with audited security enforcement
+### Databases & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 
 ---
 
-### **Archverse Board (Project Management Suite)**
-**Next.js, TypeScript, PostgreSQL, Turborepo**
+## 💼 Experience Snapshot
 
-- Reduced **20% code duplication** using Monorepo architecture
-- Lowered system latency by **35%** through query & caching optimizations
+### 🏢 The Serif’s — Senior Full Stack Developer (Contract)
+**May 2025 – Dec 2025**
 
----
-
-## 🎓 Education
-
-**Bachelor of Technology (Computer Science)**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya, Indore  
-*Aug 2017 – Jun 2021*
+- Boosted backend data retrieval by **35%**
+- Built **50+ reusable UI components** → **30% faster delivery**
+- Reduced release time from **2.25 hrs → 15 mins**
+- Mentored **3 engineers**, reducing defects by **45%**
 
 ---
 
-## 📚 Publications
+### 🏢 Accenture — Full Stack / Backend / Frontend Engineer
+**Sep 2021 – May 2025**
 
-**Analytical Problem-Solving Approach using Artificial Neural Network**  
-International Journal of Technology Research and Management (IJTRM), 2019
+- Modernized legacy systems → **30% performance gain**
+- Supported **50+ enterprise apps** (Pfizer, EirGrid)
+- Reduced ticket resolution time by **40%**
+- Built **150+ API test collections**
+- Achieved **100% SLA compliance** on critical issues
+
+---
+
+## 🧩 Key Projects
+
+### 🧠 TeamSync AI (B2B SaaS)
+- Real-time messaging with **sub-100ms latency**
+- Scaled for **300% concurrent user growth**
+- Secure JWT + RBAC enforcement
+
+### ⚡ EirGrid Real-Time Dashboard
+- WebSocket telemetry with **sub-second visibility**
+- Reduced **MTTR by 40%**
+
+### 🏥 Dr. Reddy’s Healthcare Portal
+- SSR dashboards across **10+ microsites**
+- **99.9% uptime** on AWS infrastructure
+
+---
+
+## 🎓 Education & Research
+
+🎓 **B.Tech – Computer Science**  
+Rajiv Gandhi Proudyogiki Vishwavidyalaya
+
+📄 **Artificial Neural Network Research**  
+Published in *International Journal of Technology Research and Management (2019)*
 
 ---
 
 ## 📫 Contact
 
-📧 Email: rudranshchouksey@gmail.com  
-📞 Phone: +91 9630880614  
-📍 Location: Indore, India  
+📧 **rudranshchouksey@gmail.com**  
+📞 **+91 9630880614**  
+📍 **Indore, India**
 
 🌐 Portfolio: https://rudranshchoukseyportfolio.netlify.app  
 💼 LinkedIn: https://linkedin.com/in/rudransh-chouksey  
@@ -135,4 +122,4 @@ International Journal of Technology Research and Management (IJTRM), 2019
 
 ---
 
-⭐ Open to **Senior / Lead Full Stack**, **Backend-heavy**, or **Product Engineering** roles.
+⭐ **Open to Senior / Lead Full Stack & Backend-heavy Product Roles**
