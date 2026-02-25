@@ -58,30 +58,6 @@ I specialize in **React, Next.js, Node.js, TypeScript**, and **cloud-native arch
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 
----
-
-## 💼 Experience Snapshot
-
-### 🏢 The Serif’s — Senior Full Stack Developer (Contract)
-**May 2025 – Dec 2025**
-
-- Boosted backend data retrieval by **35%**
-- Built **50+ reusable UI components** → **30% faster delivery**
-- Reduced release time from **2.25 hrs → 15 mins**
-- Mentored **3 engineers**, reducing defects by **45%**
-
----
-
-### 🏢 Accenture — Full Stack / Backend / Frontend Engineer
-**Sep 2021 – May 2025**
-
-- Modernized legacy systems → **30% performance gain**
-- Supported **50+ enterprise apps** (Pfizer, EirGrid)
-- Reduced ticket resolution time by **40%**
-- Built **150+ API test collections**
-- Achieved **100% SLA compliance** on critical issues
-
----
 
 ## 🧩 Key Projects
 
