@@ -22,21 +22,6 @@ I specialize in **React, Next.js, Node.js, TypeScript**, and **cloud-native arch
 - 👥 Supported **50+ stakeholder applications**
 - 🧠 Mentored engineers & standardized engineering workflows
 
----
-
-## 📊 GitHub Activity & Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudranshchouksey&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudranshchouksey&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudranshchouksey&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🧠 Tech Stack (Visual)
 
 ### Frontend
