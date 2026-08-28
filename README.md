@@ -77,10 +77,3 @@ Published in *International Journal of Technology Research and Management (2019)
 📞 **+91 9630880614**  
 📍 **Indore, India**
 
-🌐 Portfolio: https://rudranshchoukseyportfolio.netlify.app  
-💼 LinkedIn: https://linkedin.com/in/rudransh-chouksey  
-💻 GitHub: https://github.com/rudranshchouksey  
-
----
-
-⭐ **Open to Senior / Lead Full Stack & Backend-heavy Product Roles**
