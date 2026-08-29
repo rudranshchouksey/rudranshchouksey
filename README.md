@@ -61,16 +61,6 @@ I specialize in **React, Next.js, Node.js, TypeScript**, and **cloud-native arch
 
 ---
 
-## 🎓 Education & Research
-
-🎓 **B.Tech – Computer Science**  
-Rajiv Gandhi Proudyogiki Vishwavidyalaya
-
-📄 **Artificial Neural Network Research**  
-Published in *International Journal of Technology Research and Management (2019)*
-
----
-
 ## 📫 Contact
 
 📧 **rudranshchouksey@gmail.com**  
