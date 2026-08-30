@@ -22,27 +22,6 @@ I specialize in **React, Next.js, Node.js, TypeScript**, and **cloud-native arch
 - 👥 Supported **50+ stakeholder applications**
 - 🧠 Mentored engineers & standardized engineering workflows
 
-## 🧠 Tech Stack (Visual)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express)
-![WebSockets](https://img.shields.io/badge/WebSockets-000?style=flat)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
-
-### Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
-
 
 ## 🧩 Key Projects
 
